@@ -80,12 +80,6 @@ whatweb rocktargames.com
 
 ![Screenshot_2025-03-08_04_20_18](https://github.com/user-attachments/assets/8546ba0d-cce0-4d68-9674-1288db255b69)
 
-## httprint:
-```
-httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
-```
-## Output:
-
 
 ## Tracing the Location
 ## TCP Traceroute:
